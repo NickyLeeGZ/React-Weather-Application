@@ -28,7 +28,7 @@ Before running the app, obtain an API key from [OpenWeatherMap API Keys Page](ht
 
 ## Setup & Installation
 
-1. **Clone the repository:**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/NickyLeeGZ/React-Weather-Application
    cd <project-folder-name>
