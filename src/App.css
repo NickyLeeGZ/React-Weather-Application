@@ -1,0 +1,19 @@
+.divider {
+  border: none;
+  height: 2px;
+  background-color: #ccc;
+  margin: 20px 0;
+}
+
+.capitalize-first {
+  text-transform: capitalize;
+}
+
+.error-message-box {
+  background-color: #ffebe9;
+  color: #cf222e;
+  border: 1px solid #ff8182;
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 10px 0;
+}
